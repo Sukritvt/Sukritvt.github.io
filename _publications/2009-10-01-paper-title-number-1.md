@@ -2,7 +2,6 @@
 title: "Coupled Hydro-mechanical Analysis of Geosynthetic Encapsulated Granular Columns (GEC) Stabilized Slope Subjected to Seepage Conditions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-06-30
 venue: 'NTU Theses and Dissertations Repository'
 paperurl: 'http://sukrityranjan.com/files/paper1.pdf'
