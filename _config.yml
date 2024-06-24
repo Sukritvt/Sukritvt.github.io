@@ -22,10 +22,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sukrityranjan Samanta"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "he/his"  
+  bio              : "Learning computational geomechanics"
+  location         : "Blacksburg, Virginia, USA"
+  employer         : "Virginia Tech"
   uri              : # URL
   email            : "none@example.org" 
 
