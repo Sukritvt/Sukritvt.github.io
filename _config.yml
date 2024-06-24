@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sukrit / Ph.D. student"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Sukrityranjan Samanta"
 description              : &description "Learning computational geomechanics"
@@ -22,7 +22,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sukrityranjan Samanta"
-  pronouns         : "MS"  
+  pronouns         : "Ph.D. student"  
   bio              : "Learning computational geomechanics"
   location         : "Blacksburg, Virginia, USA"
   employer         : "Virginia Tech"
