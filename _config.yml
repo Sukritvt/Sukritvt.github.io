@@ -237,7 +237,7 @@ defaults:
       path: ""
       type: activities
     values:
-      layout: talk
+      layout: activities
       author_profile: true
       share: true      
 
