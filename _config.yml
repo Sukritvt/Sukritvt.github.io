@@ -168,16 +168,19 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  researches:
     output: true
     permalink: /:collection/:path/
-  talks:
+  courses:
+    output: true
+    permalink: /:collection/:path/   
+  members:
+    output: true
+    permalink: /:collection/:path/
+  activities:
     output: true
     permalink: /:collection/:path/
 
@@ -218,7 +221,15 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true      
+      share: true
+  # _courses
+  - scope:
+      path: ""
+      type: courses
+    values:
+      layout: talk
+      author_profile: true
+      share: true       
   # _members
   - scope:
       path: ""
