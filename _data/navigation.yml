@@ -3,12 +3,24 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /researches/
+
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Courses"
+    url: /courses/
+
+  - title: "Key members"
+    url: /members/
+
+  - title: "Activities"
+    url: /activities/
+
   - title: "Portfolio"
     url: /portfolio/
         
