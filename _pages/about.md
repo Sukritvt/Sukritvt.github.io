@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ------
+![Illustration of geomaterials](/images/computation_illustration.png){: .align-right width="300px"}
 * Ph.D student in Virginia Polytechnic Institute and State University, 2027 (expected)
 * M.S. in National Taiwan University, June 2023
 * B.S. in National Institute of Technology, Raipur, June 2017
