@@ -202,15 +202,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -237,7 +228,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _talks
+  # _researches
   - scope:
       path: ""
       type: researches
@@ -245,7 +236,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true      
-  # _talks
+  # _members
   - scope:
       path: ""
       type: members
@@ -253,7 +244,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _talks
+  # _activities
   - scope:
       path: ""
       type: activities
