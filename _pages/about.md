@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 ------
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Virginia Polytechnic Institute and State University, 2027 (expected)
+* M.S. in National Taiwan University, June 2023
+* B.S. in National Institute of Technology, Raipur, June 2017
 
 Education
 ======
 ------
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D student in Virginia Polytechnic Institute and State University, 2027 (expected)
+* M.S. in National Taiwan University, June 2023
+* B.S. in National Institute of Technology, Raipur, June 2017
 
 Professional experience
 ======
