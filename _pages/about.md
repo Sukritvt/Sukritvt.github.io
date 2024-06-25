@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sukrit's webpage"
+#title: "Sukrit's webpage"
 author_profile: true
 redirect_from: 
   - /about/
