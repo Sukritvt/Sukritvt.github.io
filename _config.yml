@@ -170,7 +170,7 @@ kramdown:
 collections:
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collections/:path/
   talks:
     output: true
     permalink: /:collection/:path/
